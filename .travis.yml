@@ -1,0 +1,7 @@
+language: node
+script: true
+deploy:
+  provider: nodejitsu
+  username: bazbaz
+  api_key: 
+    secure: "IUjJ+qeYxGDK33ETbbcEssytvQUhaUC/uDhssu9Myqw7Ai4c3XP6bhk5Nrlg\n9eIwvghvGA3oO7FwV3vrhJp3ITg7AQvGV8mvHV6YB9e47fPVQ4XSOcOtWoxy\nqC2le90zJsMjKVXRAHpoFDQb/9HeWvbqjYqWXl/r1o2+OwtRN2s="
